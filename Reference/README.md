@@ -10,3 +10,6 @@
 
 3. Plot
 - [Matplotlib可視化最有價值的50個圖表](https://www.jiqizhixin.com/articles/2019-01-15-11?utm_source=Facebook_PicSee)
+
+4. Feature Engineering
+- [Permutation Importance](https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email)
