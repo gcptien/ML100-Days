@@ -13,3 +13,6 @@
 
 4. Feature Engineering
 - [Permutation Importance](https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email)
+
+5. Learning
+- [2018年Analytics Vidhya上最受欢迎的15篇数据科学和机器学习文章](https://www.jiqizhixin.com/articles/2019-01-21-12)
