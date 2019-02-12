@@ -16,3 +16,6 @@
 
 5. Learning
 - [2018年Analytics Vidhya上最受欢迎的15篇数据科学和机器学习文章](https://www.jiqizhixin.com/articles/2019-01-21-12)
+
+6. Gradient Boost 
+- [Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
