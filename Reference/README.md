@@ -24,3 +24,6 @@
 7. Convoloutional Neural Network
 - [How do Convolutional Neural Networks work?](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_convolutional_neural_networks_work.html)
 - [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
+
+8. Research Papers
+- [各個 AI 應用的資料集與目前最佳的模型論文及程式碼](https://paperswithcode.com/sota)
